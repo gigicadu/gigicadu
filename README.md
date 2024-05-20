@@ -2,7 +2,7 @@
 
 meu nome é Giovana 
 
-- estou estudando na ![](https://alura.com.br)
+- estou estudando na Alura
 - estou me desenvolvendo na linguagem java Script
 
   ### Você entrar em contato comigo
